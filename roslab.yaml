@@ -1,0 +1,7 @@
+name: viso2
+
+distro: kinetic
+
+build: catkin_make
+
+runtime: nvidia
